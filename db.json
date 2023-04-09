@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Youness",
+      "email": "yo@umbca.ma",
+      "salary": "38000",
+      "phone": "0653677233"
+    },
+    {
+      "name": "abdel",
+      "email": "ab@gll.com",
+      "salary": "12000",
+      "phone": "067563287",
+      "id": 2
+    }
+  ]
+}
